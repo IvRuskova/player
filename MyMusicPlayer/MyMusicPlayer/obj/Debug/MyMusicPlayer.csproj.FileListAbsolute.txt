@@ -1,0 +1,30 @@
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+D:\Projects_Experiment\C#\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+D:\Projects_Experiment\New folder\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
